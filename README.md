@@ -34,28 +34,33 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-
-<!-- ## ⚙️ TOOLS & TECHNOLOGIES
-
-### 🌐 Frontend
-`React` &nbsp; `Angular` &nbsp; `Next.js` &nbsp; `HTML5` &nbsp; `CSS3`  
-`Tailwind CSS` &nbsp; `Bootstrap` &nbsp; `Material UI`
-
-### 🛠 Backend & Database
-`Node.js` &nbsp; `Express.js` &nbsp; `PHP`  
-`MySQL` &nbsp; `MongoDB` &nbsp; `Firebase`
-
-### 🧰 Tools & Platforms
-`Git` &nbsp; `GitHub` &nbsp; `Postman` &nbsp; `WordPress`  
-`Figma` &nbsp; `Linux` &nbsp; `Jira` &nbsp; `Trello`
-
---- -->
-
+<!-- 
 📫 **Contact:**  
 - 📍 Lebanon  
 - 📧 [marwa.al.shahal@gmail.com](mailto:marwa.al.shahal@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marwa-al-shahal)  
 - 💻 [GitHub](https://github.com/marwa-al-shahal)
 
----
+--- -->
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:marwa.al.shahal@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.google.com/maps/place/Lebanon" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Location-283593?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/marwa-al-shahal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/marwa-al-shahal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 

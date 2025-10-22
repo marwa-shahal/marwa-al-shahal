@@ -43,15 +43,11 @@
 
 --- -->
 
-## 📫 Contact Me
+<!-- ## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:marwa.al.shahal@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.google.com/maps/place/Lebanon" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Location-283593?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/marwa-al-shahal" target="_blank" rel="noopener noreferrer">
@@ -61,6 +57,29 @@
   <a href="https://github.com/marwa-al-shahal" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p> -->
+
+## 📫 Contact Me
+
+<p align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+
+  <a href="mailto:marwa.al.shahal@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="28" height="28" style="filter: grayscale(100%)" />
+  </a>
+
+  <a href="https://www.google.com/maps/place/Lebanon" target="_blank" rel="noopener noreferrer" title="Location: Lebanon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlemaps.svg" alt="Location" width="28" height="28" style="filter: grayscale(100%)" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/marwa-al-shahal" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="28" height="28" style="filter: grayscale(100%)" />
+  </a>
+
+  <a href="https://github.com/marwa-al-shahal" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="28" height="28" style="filter: grayscale(100%)" />
+  </a>
+
 </p>
+
 
 
